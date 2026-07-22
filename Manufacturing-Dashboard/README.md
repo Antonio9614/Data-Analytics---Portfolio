@@ -1,3 +1,16 @@
-# Manufacturing Dashboard
+Manufacturing Operations Dashboar
 
-Proyecto en desarrollo.
+Contexto:
+Una planta necesita monitorear el desempeño de sus equipos mediante indicadores de mantenimiento y producción.
+
+Objetivos: 
+- Analizar fallas.
+- Calcular MTTR.
+- Calcular MTBF.
+- Medir disponibilidad.
+- Visualizar tiempos muertos.
+
+Herramientas:
+- Python
+- Power BI
+- SQL
