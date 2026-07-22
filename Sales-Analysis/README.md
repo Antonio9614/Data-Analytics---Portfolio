@@ -1,28 +1,35 @@
-Sales Performance Analysis
+# 📈 Sales Performance Analysis
 
-Business Insights for Decision Making
+## Business Insight for Decision Making
 
+### 📌 Business Context
 
-Contexto:
-Una empresa desea comprender el comportamiento de sus ventas para identificar oportunidades de crecimiento, productos con mejor rendimiento y tendencias comerciales.
+A retail company wants to better understand its sales performance in order to identify growth opportunities, top-performing products, and commercial trends that support strategic decision-making.
 
-Objetivos:
-- Analizar el desempeño de ventas.
-- Detectar productos con mayor rentabilidad.
-- Identificar patrones por región y categoría.
-- Crear indicadores ejecutivos.
+### 🎯 Project Objectives
 
-Herramientas:
+- Analyze overall sales performance.
+- Identify the most profitable products.
+- Discover sales patterns by region and category.
+- Build executive KPIs for decision makers.
+
+### 🛠️ Tools
+
 - Python
 - Pandas
 - Plotly
 - Power BI
 - Excel
 
-KPIs:
-- Total de ventas
-- Utilidad
-- Ticket promedio
-- Ventas por región
-- Top productos
-- Tendencia mensual
+### 📊 Key Performance Indicators (KPIs)
+
+- Total Sales
+- Total Profit
+- Average Order Value
+- Sales by Region
+- Top Performing Products
+- Monthly Sales Trend
+
+### 🚧 Project Status
+
+This project is currently under development. The next stages include data cleaning, exploratory data analysis (EDA), KPI creation, dashboard development, and business recommendations.
