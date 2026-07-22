@@ -1,31 +1,50 @@
 # 📊 Data Analytics Portfolio
 
-I am a Mechatronics Engineer transitioning into Data Analytics with a strong background in industrial maintenance, process optimization and technical problem solving.
+Welcome! I'm **Antonio Anaya Jiménez**, a Mechatronics Engineer transitioning into Data Analytics with experience in industrial maintenance, process optimization, and technical problem solving.
 
-My goal is to transform raw data into meaningful insights that support business decisions through dashboards, statistical analysis and data visualization.
+I enjoy transforming raw data into actionable insights through data analysis, visualization, and business intelligence. This portfolio showcases projects designed to solve real-world business challenges using modern analytical tools.
 
-This portfolio contains projects focused on solving real business problems rather than academic exercises.
+## 🛠️ Technical Skills
 
-## 🛠 Tecnologías
+- 🐍 Python
+- 🗄 SQL
+- 📊 Power BI
+- 📈 Excel
+- 🐼 Pandas
+- 📉 Matplotlib
+- 📋 Jupyter Notebook
+- 🌿 Git & GitHub
 
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- Git & GitHub
+## 📁 Featured Projects
 
-## 📁 Proyectos
+| Project | Business Problem | Tools |
+|---------|------------------|-------|
+| 📈 Sales Performance Analysis	 |  Improve sales strategy	  |  Python, Power BI       |
+| 🏭 Manufacturing Dashboard	     |  Monitor maintenance KPIs	|  Python, SQL, Power BI  |
+| 📦 Inventory Optimization	     |  Reduce inventory costs	  |  Python, Excel          |
 
-### 📊 Sales Analysis
-Análisis de ventas para identificar tendencias, productos con mejor desempeño y oportunidades de crecimiento.
+## 💡 Why This Portfolio?
 
-### 🏭 Manufacturing Dashboard
-Dashboard de indicadores de mantenimiento y producción para monitorear el desempeño operativo.
+Rather than showcasing classroom exercises, these projects simulate real business scenarios from manufacturing, retail, and operations. Each project focuses on solving a business problem through data analysis, visualization, and actionable recommendations.
 
-### 📦 Inventory Analysis
-Análisis de inventarios para optimizar niveles de existencias y apoyar la gestión de almacenes.
+## 📚 Currently Learning
 
-## 🎯 Objetivo
+- Microsoft Power BI (PL-300)
+- Advanced SQL
+- Machine Learning Fundamentals
+- Business Intelligence
+- Data Storytelling
 
-Desarrollar soluciones basadas en datos que ayuden a las empresas a mejorar sus procesos y tomar decisiones informadas.
+## 🎯 Career Interests
+
+I'm currently seeking opportunities in:
+- Data Analyst
+- Business Intelligence Analyst
+- Operations Analyst
+- Manufacturing Data Analyst
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/antonio-anaya-jimenez/
+- 💻 GitHub: https://github.com/Antonio9614
+- 📧 Email: ing.antonioanaya@outlook.com
