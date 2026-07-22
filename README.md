@@ -1,8 +1,10 @@
 # 📊 Data Analytics Portfolio
 
-¡Hola! Soy **Antonio Anaya Jiménez**, Ingeniero Mecatrónico en transición hacia el área de **Data Analytics**.
+I am a Mechatronics Engineer transitioning into Data Analytics with a strong background in industrial maintenance, process optimization and technical problem solving.
 
-En este repositorio presento proyectos desarrollados para resolver problemas de negocio mediante el análisis de datos, la visualización de información y la generación de indicadores para apoyar la toma de decisiones.
+My goal is to transform raw data into meaningful insights that support business decisions through dashboards, statistical analysis and data visualization.
+
+This portfolio contains projects focused on solving real business problems rather than academic exercises.
 
 ## 🛠 Tecnologías
 
